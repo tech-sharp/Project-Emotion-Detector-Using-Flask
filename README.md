@@ -35,4 +35,4 @@ Implement robust error handling to ensure that your application gracefully handl
 ### Task 8: Run Static Code Analysis
 Perform static code analysis to review your code for potential issues, code quality, and adherence to best practices.
 
-By completing these tasks, you will have created a functional emotion detection web application that can be accessed by users on the internet.
+By completing these tasks, you will have created a functional emotion detection web application that can be accessed by users on the internet.
